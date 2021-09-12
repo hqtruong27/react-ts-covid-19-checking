@@ -1,8 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+# Coronavirus (COVID-19)
 
 In the project directory, you can run:
 
@@ -39,8 +35,19 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## library use
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. axios
+2. highcharts
+3. highcharts-react-official
+4. moment
+5. @highcharts/map-collection
+6. @material-ui/core
+7. autosuggest-highlight
+8. material-ui/lab
+9. lodash
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Data from
+[JHU CSSE COVID-19 Data ](https://github.com/CSSEGISandData/COVID-19)
+[COVID 19 API][https://covid19api.com/]
+[covidtracking][https://covidtracking.com/data/api]
