@@ -1,4 +1,4 @@
-# Coronavirus (COVID-19)
+# Coronavirus (COVID-19) TS
 
 In the project directory, you can run:
 
